@@ -1,6 +1,11 @@
+h1{
+    color: crimson;
+}
+
 p{
     color: darkorange;
-    font-size: 300px;
-    font-weight: 800;
+    font-size: 40px;
+    font-weight: 700;
     background-color: orangered;
 }
+
